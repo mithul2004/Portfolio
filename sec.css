@@ -1,0 +1,13 @@
+body{
+    color:skyblue;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color:rgb(0, 4, 255)
+}
+li{
+    list-style-position: inside;
+    font-size: xx-large;
+    justify-content: center;
+}
